@@ -12,8 +12,8 @@
 }
 
 .description img {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
   margin-bottom: 10px;
 }
@@ -25,22 +25,22 @@
 }
 
 .work-experience {
-  background-color: #4c5692;
+  background-color: #f2f2f2;
   padding: 10px;
 }
 
 .hobbies {
-  background-color: #bb6969;
+  background-color: #e6f2ff;
   padding: 10px;
 }
 
 .education {
-  background-color: #bbd47c;
+  background-color: #fff2e6;
   padding: 10px;
 }
 
 .personal-info {
-  background-color: #99b4d4;
+  background-color: #f2e6ff;
   padding: 10px;
 }
 
@@ -56,6 +56,6 @@
 }
 
 .image-container img {
-  width: 100px;
-  height: 80px;
+  width: 200px;
+  height: 150px;
 }
