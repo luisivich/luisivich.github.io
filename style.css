@@ -1,0 +1,61 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+}
+
+.description {
+  text-align: center;
+}
+
+.description img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.column {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  grid-gap: 20px;
+}
+
+.work-experience {
+  background-color: #f2f2f2;
+  padding: 10px;
+}
+
+.hobbies {
+  background-color: #e6f2ff;
+  padding: 10px;
+}
+
+.education {
+  background-color: #fff2e6;
+  padding: 10px;
+}
+
+.personal-info {
+  background-color: #f2e6ff;
+  padding: 10px;
+}
+
+.recent-travels {
+  grid-column: span 2;
+  margin-top: 20px;
+}
+
+.image-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+
+.image-container img {
+  width: 200px;
+  height: 150px;
+}
