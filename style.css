@@ -5,9 +5,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 20px;
-
 }
-
 .logo {
   margin-right: 10px;
 }
