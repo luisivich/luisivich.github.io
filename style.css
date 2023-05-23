@@ -121,3 +121,16 @@
 .dropdown-menu:hover {
   display: block;
 }
+
+
+.poem {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  margin-bottom: 10px;
+}
