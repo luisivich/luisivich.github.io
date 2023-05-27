@@ -206,3 +206,10 @@ width: 100%;
 .dropdown-toggle:hover::after {
   opacity: 1;
 }
+
+
+ .bodya {
+            background-color: skyblue;
+            margin-left: 200px; 
+            margin-right: 200px; 
+        }
