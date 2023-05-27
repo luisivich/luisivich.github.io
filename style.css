@@ -211,5 +211,6 @@ width: 100%;
  .bodya {
             background-color: skyblue;
             margin-left: 200px; 
-            margin-right: 200px; 
+            margin-right: 200px;
+            margin-top: 50px;
         }
